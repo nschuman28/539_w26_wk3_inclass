@@ -1,2 +1,2 @@
-# 539_w26_wk3_inclass
-my css from week 3
+# Intro to CSS Activity
+Week 2 or 3 in-class exercises for intro to CSS
